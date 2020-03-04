@@ -12,8 +12,4 @@
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |      |   Medium   | 字符串  |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |      |    Easy    |      |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |      |    Hard    | 字符串  |
-|      |                                          |      |            |      |
-|      |                                          |      |            |      |
-|      |                                          |      |            |      |
-|      |                                          |      |            |      |
 
